@@ -1,0 +1,15 @@
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\bin\Debug\netstandard2.0\Golovin_A_app1.deps.json
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\bin\Debug\netstandard2.0\Golovin_A_app1.dll
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\bin\Debug\netstandard2.0\Golovin_A_app1.pdb
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.AssemblyInfo.cs
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.dll
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\refint\Golovin_A_app1.dll
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\Golovin_A_app1.pdb
+C:\Users\SP4-IVC\Documents\Golovin_A_app1\Golovin_A_app1\obj\Debug\netstandard2.0\ref\Golovin_A_app1.dll
